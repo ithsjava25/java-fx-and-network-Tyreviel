@@ -4,6 +4,7 @@ public class ManyParameters {
 
     public ManyParameters(String computerName, int timeout,
                           String method, int size, byte[] data) {
+        //exist for the ManyParametersBuilder class
 
     }
 

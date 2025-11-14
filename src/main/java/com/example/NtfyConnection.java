@@ -3,7 +3,7 @@ package com.example;
 import java.nio.file.Path;
 import java.util.function.Consumer;
 
-public interface NtfyConnection {
+interface NtfyConnection {
 
     public boolean send(String message);
 
